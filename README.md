@@ -41,5 +41,36 @@ https://arxiv.org/abs/2203.05482
 Can GPT-4 Perform Neural Architecture Search?
 https://arxiv.org/abs/2304.10970
 
+# Others
+
+Neural Discrete Representation Learning
+https://arxiv.org/abs/1711.00937
+
+TAMING TRANSFORMERS FOR HIGH-RESOLUTION IMAGE SYNTHESIS (A.K.A #VQGAN)
+https://compvis.github.io/taming-transformers/
+
+Denoising Diffusion Probabilistic Models
+https://arxiv.org/abs/2006.11239
+
+Denoising Diffusion Implicit Models
+https://arxiv.org/abs/2010.02502
+
+Denoising Diffusion Implicit Models
+https://arxiv.org/abs/2010.02502
+
+High-Resolution Image Synthesis with Latent Diffusion Models
+https://arxiv.org/abs/2112.10752
+
+
+
+
+
+
+
+
+
+
+
+
 
 
