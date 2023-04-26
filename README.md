@@ -36,7 +36,7 @@ https://arxiv.org/abs/2202.10054
 Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time
 https://arxiv.org/abs/2203.05482
 
-#Neural architecture search
+# Neural architecture search
 
 Can GPT-4 Perform Neural Architecture Search?
 https://arxiv.org/abs/2304.10970
