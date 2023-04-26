@@ -59,6 +59,10 @@ https://arxiv.org/abs/2203.05482
 Can GPT-4 Perform Neural Architecture Search?
 https://arxiv.org/abs/2304.10970
 
+# Visual prompting
+BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning
+https://arxiv.org/abs/2303.14773
+
 # Others
 
 Neural Discrete Representation Learning
