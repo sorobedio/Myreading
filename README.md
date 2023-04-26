@@ -18,6 +18,10 @@ https://arxiv.org/pdf/2304.08226.pdf
 
 
 # Domain generalization
+
+Causality Inspired Representation Learning for Domain Generalization
+https://arxiv.org/abs/2203.14237
+
 Diverse Weight Averaging for Out-of-Distribution Generalization
 https://arxiv.org/abs/2205.09739
 
