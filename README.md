@@ -83,6 +83,20 @@ https://arxiv.org/abs/2010.02502
 High-Resolution Image Synthesis with Latent Diffusion Models
 https://arxiv.org/abs/2112.10752
 
+# awesome-equivariant-network https://github.com/Chen-Cai-OSU/awesome-equivariant-network
+
+Exploiting Redundancy: Separable Group Convolutional Networks on Lie Groups(2022)
+https://arxiv.org/abs/2110.13059
+
+Equivariance Through Parameter-Sharing(2017)
+https://arxiv.org/abs/1702.08389
+
+
+Group Equivariant Convolutional Networks (2016)
+https://arxiv.org/abs/1602.07576
+
+
+
 
 
 
