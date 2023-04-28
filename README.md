@@ -95,6 +95,13 @@ https://arxiv.org/abs/1702.08389
 Group Equivariant Convolutional Networks (2016)
 https://arxiv.org/abs/1602.07576
 
+General E(2)-Equivariant Steerable CNNs(2021)
+https://arxiv.org/abs/1911.08251
+
+A Program to Build E(N)-Equivariant Steerable CNNs (2023)
+https://openreview.net/forum?id=WE4qe9xlnQw
+
+https://github.com/QUVA-Lab/escnn
 
 
 
