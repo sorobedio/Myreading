@@ -16,6 +16,9 @@ https://arxiv.org/pdf/2212.13554.pdf
 Equivariant Tensor Networks
 https://arxiv.org/pdf/2304.08226.pdf
 
+Learning useful representations for shifting tasks and distributions
+https://arxiv.org/abs/2212.07346
+
 
 # Domain generalization
 
